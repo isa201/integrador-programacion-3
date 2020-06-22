@@ -1,0 +1,45 @@
+
+*{
+    font-family: 'Open Sans', sans-serif !important;    
+    color: rgb(12, 7, 7);
+}
+
+#tblLista thead{
+    background:rgb(57, 231, 138);
+    color: rgb(14, 13, 13);
+}
+
+#tblLista tbody{
+    background-color: rgba(165, 162, 162, 0.753);
+}
+
+div a{
+    color: black;
+}
+
+#tblLista2 thead{
+    background:rgb(57, 231, 138);
+    color: rgb(14, 13, 13);
+}
+
+#tblLista2 tbody{
+    background-color: rgba(165, 162, 162, 0.753);
+}
+
+#tblLista3 thead{
+    background:rgb(57, 196, 231);
+    color:  rgb(14, 13, 13);
+}
+
+#tblLista3 tbody{
+    background-color: rgba(165, 162, 162, 0.753);
+}
+
+body#fondoPrincipal{
+    background-image: url(img/fondo.png);
+          
+}
+
+
+
+
